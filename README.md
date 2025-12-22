@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/vinithcriz?label=Follow&style=social" />
   </a>
   
-  <a href="https://www.linkedin.com/in/vinith-pounraj-080679362/">
+  <a href="https://www.linkedin.com/in/vinith-pounraj">
     <img src="https://img.shields.io/badge/LinkedIn-Vinith%20Pounraj-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
