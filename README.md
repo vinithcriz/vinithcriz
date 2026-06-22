@@ -1,10 +1,10 @@
-<h1 align="center">Hey Everyone 👋, I'm Vinith Pounraj</h1>
+<h1 align="center">Hey 👋, I'm Vinith Pounraj</h1>
 
 <div align="center">
   <img src="https://github.com/vinithcriz/vinithcriz/blob/main/banner.png">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from Coimbatore. I work in  IT Sector </h3>
+<h3 align="center">A passionate DevOps Engineer from Coimbatore.  </h3>
 
 <p align="center">
   <a href="https://github.com/vinithcriz">
