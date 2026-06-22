@@ -4,7 +4,7 @@
   <img src="https://github.com/vinithcriz/vinithcriz/blob/main/banner.png">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
+<h3 align="center">A passionate DevOps Engineer from Coimbatore. I work in  IT Sector </h3>
 
 <p align="center">
   <a href="https://github.com/vinithcriz">
